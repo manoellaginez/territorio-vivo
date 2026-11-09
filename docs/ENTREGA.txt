@@ -1,0 +1,28 @@
+GLOBAL SOLUTION FIAP 2026.2
+Desafio: Territory Predictive Insights
+Projeto: Território Vivo
+
+INTEGRANTES
+
+Manoella dos Santos Ginez — RM564469
+Leonardo de Magalhães Piassa — RM563663
+
+REPOSITÓRIO GITHUB
+
+https://github.com/manoellaginez/territorio-vivo
+
+VÍDEO DE DEMONSTRAÇÃO
+
+https://youtu.be/qIidRzh9iSk
+
+APLICATIVO ANDROID — APK
+
+https://github.com/manoellaginez/territorio-vivo/releases/latest/download/app-release.apk
+
+DESCRIÇÃO
+
+O Território Vivo é um aplicativo de inteligência territorial preditiva desenvolvido para apoiar gestores públicos no acompanhamento de indicadores, identificação de situações críticas e tomada de decisões relacionadas ao território da Bela Vista, em São Paulo.
+
+A solução reúne painéis de recursos, clima e serviços urbanos, alertas explicáveis, participação cidadã e recursos de acessibilidade.
+
+Tecnologias principais: Flutter, Dart, Provider, GoRouter, SharedPreferences, fl_chart e API Open-Meteo.

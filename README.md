@@ -1,6 +1,6 @@
 <div align="center">
 
-<!-- Troque pelo seu logo/banner: assets/screenshots/banner.png -->
+
 <img src="assets/screenshots/banner.png" alt="Banner do Território Vivo" width="600"/>
 
 # Território Vivo
@@ -29,8 +29,6 @@
 | Leonardo de Magalhães Piassa | RM563663 |    
 
 ## 3. Demonstração visual
-
-> Salve os prints em `assets/screenshots/` com os nomes abaixo.
 
 | Consentimento | Visão geral | Painel Recursos |
 |---|---|---|
@@ -118,10 +116,11 @@
 ## 8. Como executar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/territorio-vivo.git
+git clone https://github.com/manoellaginez/territorio-vivo.git
 cd territorio-vivo
 flutter pub get
 flutter run            # emulador ou dispositivo conectado
+flutter run -d chrome  # executar no chrome
 flutter test           # testes automatizados
 flutter build apk --release
 ```
@@ -130,7 +129,7 @@ Não há variáveis de ambiente nem chaves de API para configurar.
 
 ## 9. Vídeo
 
-[Assista à demonstração (até 3 min)](COLE_O_LINK_AQUI)
+[Assista à demonstração](https://youtu.be/qIidRzh9iSk?is=8nWfgRSnAbze01ju)
 
 ## 10. Licença
 
